@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndzejK;
+- 👋 Hi, I’m @Andrey;
 - 👀 I’m interested in Python, Networking, an Ethical hacking and Cyber Security;
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Ethical hacking
