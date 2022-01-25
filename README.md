@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrey;
-- 👀 I’m interested in Python, Networking, an Ethical hacking and Cyber Security;
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Ethical hacking
+- 👀 I’m interested in Coding, Networking, Mentoring and just becoming a better human being;
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on FrontEnd/BackEnd/FullStack
 - 📫 How to reach me https://www.instagram.com/ineizvestnyi
 
 <!---
